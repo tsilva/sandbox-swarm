@@ -14,3 +14,7 @@ To set up the conda environment for this project, follow these steps:
    ```sh
    conda activate sandbox-swarm
    ```
+
+## References
+
+- https://github.com/openai/swarm
