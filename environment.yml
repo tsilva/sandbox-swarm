@@ -1,0 +1,3 @@
+name: sandbox-swarm
+dependencies:
+  - python-dotenv
