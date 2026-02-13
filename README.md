@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="sandbox-swarm" width="512"/>
 
-  **🐝 Sandbox for experimenting with OpenAI Swarm multi-agent framework**
+  **🐝 Sandbox for OpenAI Swarm multi-agent systems 🤖**
 
 </div>
 
