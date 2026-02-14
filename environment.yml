@@ -1,7 +1,0 @@
-name: sandbox-swarm
-dependencies:
-  - python=3.10
-  - pip
-  - pip:
-    - python-dotenv
-    - git+https://github.com/openai/swarm.git
