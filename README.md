@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-swarm" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-swarm/main/logo.png" alt="sandbox-swarm" width="512"/>
 
   **🐝 Sandbox for OpenAI Swarm multi-agent systems 🤖**
 
