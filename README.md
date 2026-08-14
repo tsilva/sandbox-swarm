@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository exists only for experimentation and is currently archived.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-swarm/main/logo.png" alt="sandbox-swarm" width="512"/>
 
